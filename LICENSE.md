@@ -1,0 +1,1 @@
+# is a file that explains the legal licensing, such as any rights, any restrictions, any regulations, etc.
